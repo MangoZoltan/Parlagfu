@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: #9CEE59;
+    color: black;
+}
+a, a:link, a:active, a:visited{
+    color: #999;
+}
+table#kulso{
+    width: 980px;
+    border: none;
+    border-spacing: 0;
+    background-color: #509050;
+    margin: auto;
+}
+table#kulso{
+    width: 980px;
+    border: none;
+    border-spacing: 0;
+    background-color: #509050;
+    margin: auto;
+}
+table#belso{
+    width: 940px;
+    border: none;
+    border-spacing: 1px;
+    background-color: #fff;
+    margin: auto;
+}
+table#belso tr:nth-child(2) td{
+    height: 40px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+}
+table#belso tr:nth-child(3) td{
+    padding: 10px;
+}
+ul{
+    padding-left: 50px;
+}
+h1, p{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#gyomlalas{
+    float: right;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: 1px solid black;
+}
+
+#foKeret{
+    position: relative;
+}
+#bubi{
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    background-color: white;
+    border-radius: 50%;
+    width: 250px;
+    height: 180px;
+    justify-content: center;
+}
+#bubi img{
+display: block;
+margin: auto;
+margin-top: 10px;
+}
+#foKeret h1{
+    top: 50px;
+    line-height: 100px;
+    right: 40px;
+    position: absolute;
+    
+    color: white;
+    font-size: 60px;
+}
+ul{
+    display: block;
+    overflow: hidden;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    width: 135.6718px;
+    float: left;
+    display: block;
+    padding: 10px;
+    color: white;
+    background-color: #000;
+    border-right: 1px solid white;
+}
